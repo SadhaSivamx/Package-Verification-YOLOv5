@@ -5,4 +5,4 @@ The dataset required for this project was manually annotated, and you can access
 ## Objective
 A YOLOv5 model is employed with the primary goal of verifying that items such as pencils, erasers, and sharpeners have been correctly packed into a container, ensuring product quality and completeness.
 ## Output
-![Package-Verification](https://github.com/SadhaSivamx/Package-Verification-YOLOv5/assets/106687593/335d31e8-43b1-4df6-a842-79f7fa301365)
+![1](https://github.com/SadhaSivamx/Package-Verification-YOLOv5/assets/106687593/ef1bb3f6-5a24-43d3-ba8c-5ae30a8b3589)
